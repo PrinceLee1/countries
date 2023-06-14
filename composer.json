@@ -1,0 +1,12 @@
+{
+    "name": "princelee/countries",
+    "description": "World countries in JSON, CSV, HTML",
+    "autoload": {
+        "psr-4": {
+            "PrinceLee1\\CountriesPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
